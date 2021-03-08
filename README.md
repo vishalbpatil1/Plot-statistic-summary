@@ -21,11 +21,11 @@ df= pd.read_csv(r"F:\\data\\diamonds.csv")
 plot_summary(data=df,col_name='x')
 ```
 
-![summar_plot](https://github.com/vishalbpatil1/Plot-statistic-summary/blob/main/newplot%50(5).png)
+![summar_plot](https://github.com/vishalbpatil1/Plot-statistic-summary/blob/main/newplot%20(5).png)
 
 
 ### plot histogram 
 ```python
 plot_histogram(df=df,col_name='x')
 ```
-![summar_plot](https://github.com/vishalbpatil1/Plot-statistic-summary/blob/main/newplot%50(4).png)
+![summar_plot](https://github.com/vishalbpatil1/Plot-statistic-summary/blob/main/newplot%20(4).png)
